@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "my baba",
+      "password": "$2b$10$Hguo2Icj5sqd1vU0fD5LfOr8pZICtYrLb1Pq4/jjMobB1i4vF/D/G",
+      "name": "mama"
+    }
+  ]
+}
